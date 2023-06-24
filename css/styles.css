@@ -1,0 +1,19 @@
+h1 {
+    font-size:3em;
+}
+
+h2 {
+    padding: 1em;
+    margin:0;
+}
+section {
+    background-color: aliceblue;
+    font-size: 1.5em;
+    padding: 1em 2em 2em 2em;
+    margin: 2em;
+}
+
+.navbar-default {
+    background-color: lightgrey;
+}
+
